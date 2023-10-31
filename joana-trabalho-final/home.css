@@ -1,0 +1,290 @@
+.pagina{
+    background-color: #2374dd;
+    min-height: 1px;
+    width:100%
+}
+
+#nuvem-esquerda{
+    color: white;
+    font-size: 7em;
+    display: flex;
+    justify-content: center;
+}
+
+#nuvem-direita{
+    color: white;
+    font-size: 7em;
+    display: flex;
+    justify-content: center;
+}
+
+.volta-img{
+    display: flex;
+    justify-content: center;
+}
+
+.em-volta{
+    padding: 30px 0 0 0;
+}
+
+.primeira{
+    border: #032f76 2px solid;
+    padding: 30px 35px 25px 35px;
+}
+
+.borda-borda{
+    padding: 0 25px 45px 25px;
+}
+
+.tabela-superiors{
+    padding:29px 25px 0 25px;
+    border-bottom:none;
+}
+
+.nav-tabs .nav-link.active{
+    background-color: #032f76;
+    color: #fff;
+    border-color: #032f76 !important;
+    
+}
+
+.nav-link{
+    color:#fff !important;
+}
+
+.caixa-img{
+    text-align: center;
+}
+
+.logo-jogo{
+    width: 22%;
+}
+
+.texto{
+    color: white;
+    text-align: center;
+    font-size: 1.5vw;
+    padding: 31px 10em 10px 10em
+}
+
+.img1{
+    text-align: center;
+    padding: 40px 0px 0 0;
+}
+
+.img2{
+    text-align: center;
+    padding: 40px 0px 0 0;
+}
+
+.imagem1{
+    width: 47%
+}
+
+.imagem2{
+    width: 26%;
+}
+
+.jogo-online{
+    color: #0d1239;
+    font-weight: 500;
+    font-size: 1.5vw;
+}
+
+.jogo-fisico{
+    color: #0d1239;
+    font-weight: 500;
+    font-size: 1.5vw;
+}
+
+.bloco{
+    background-color: #458ce8;
+    border-radius: 23px;
+    display: flex;
+    width: 28em;
+    padding: 5px 5px 5px 6px;
+}
+
+.img-participante{
+    width: 114px;
+}
+
+.parte-externa-bloco{
+    display: flex;
+    justify-content: center;
+    margin: 42px 0 0 0;
+}
+
+.nome{
+    font-size: 2vw;
+    color: white;
+    font-weight: 700;
+    padding: 17px 0 0 0;
+}
+
+.funcao{
+    font-size: 1.5vw;
+    color: #0823d6;
+    font-weight: 700;
+}
+
+.livre-2{
+    width: 50px;
+    padding: 4.4em 0 0 0;
+}
+
+.caixa-img-2{
+    padding: 0 0 0 96px;
+}
+
+.logo-jogo-2{
+    width: 176px;
+}
+
+.texto-2{
+    font-size: 1.5vw;
+    color: white;
+    font-weight: 600;
+}
+
+.texto-livre-2{
+    padding: 4.8em 0 0 0 !important;
+}
+
+.caixa-jogo{
+    display: flex;
+    justify-content: center;
+    padding: 44px 0 53px 0;
+}
+
+.jogo{
+    width: 50em;
+    height: 26em;
+}
+
+.parte-externa-bloco-d{
+    display: flex;
+    justify-content: center;
+    margin: 42px 0 0 0;
+}
+
+.parte-externa-bloco-e{
+    display: flex;
+    justify-content: center;
+    margin: 42px 0 0 0;
+}
+
+.bloco-d{
+    background-color: #458ce8;
+    border-radius: 23px;
+    display: flex;
+    width: 28em;
+    padding: 5px 5px 5px 6px;
+}
+
+.bloco-e{
+    background-color: #458ce8;
+    border-radius: 23px;
+    display: flex;
+    width: 28em;
+    padding: 5px 5px 5px 6px;
+}
+
+.nome-d{
+    font-size: 2vw;
+    color: white;
+    font-weight: 700;
+    padding: 17px 0 0 0;
+}
+
+.nome-e{
+    font-size: 2vw;
+    color: white;
+    font-weight: 700;
+    padding: 17px 0 0 0;
+}
+
+.funcao-d{
+    font-size: 1.5vw;
+    color: #0823d6;
+    font-weight: 700;
+}
+
+.funcao-e{
+    font-size: 1.5vw;
+    color: #0823d6;
+    font-weight: 700;
+}
+
+.img-participante-d{
+    width: 114px;
+}
+
+.img-participante-e{
+    width: 114px;
+}
+
+.caixa-relatorio{
+    display: flex;
+    justify-content: center;
+}
+
+.relatorio{
+    background-color: white;
+    width: 50em;
+    height: 37em;
+}
+
+.contorno-button{
+    display: flex;
+    justify-content: center;
+    padding: 19px 0 0 0;
+}
+
+.button-download{
+    border: none;
+    padding: 15px 30px 15px 30px;
+    border-radius: 2em;
+    background-color: #08b1d6;
+}
+
+.download{
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 1.3vw;
+}
+
+.segunda {
+    border: #032f76 2px solid;
+    padding: 90px 35px 90px 35px;
+}
+
+.obg{
+    color: white;
+    text-align: center;
+    font-size: 5vw;
+    font-weight: 600;
+}
+
+.nav-link{
+    font-size: 1.5vw;
+}
+
+.accordion-button {
+    background-color: #458ce8 !important;
+    color: white !important;
+}
+
+.accordion{
+    padding: 30px 20em 30px 20em;
+}
+
+.accordion-item{
+    border: none;
+}
+
+.video-jogo{
+   width: 100%;
+   height: 29em;
+}
