@@ -336,17 +336,18 @@
 
  .button-jogo{
     text-decoration: none;
-    color:black;
+    color:#2900ff;
     font-weight: 700;
     text-shadow: 2px 2px 4px rgb(0 0 0 / 55%);
     width: 22em;
     font-size: 1.5vw;
     border:none;
     height: 2.2em;
+    background-color: #89bcff;
  }
 
  .button-jogo:hover{
-    color:#2900ff;
+    color:#89bcff;
     transition: all 0.4s linear;
-    background-color: #89bcff;
+    background-color: #2900ff;
  }
