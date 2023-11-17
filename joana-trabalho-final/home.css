@@ -112,7 +112,7 @@
 .parte-externa-bloco{
     display: flex;
     justify-content: center;
-    margin: 42px 0 0 0;
+    margin: 42px 0 30px 0;
 }
 
 .nome{
@@ -130,7 +130,7 @@
 
 .livre-2{
     width: 50px;
-    padding: 4.4em 0 0 0;
+    padding: 30px 0 20px 0;
 }
 
 .caixa-img-2{
@@ -194,7 +194,7 @@
     font-size: 2vw;
     color: white;
     font-weight: 700;
-    padding: 35px 0 0 0;
+    padding: 13px 0 0 0;
 }
 
 #nome-d-execao{
@@ -205,7 +205,7 @@
     font-size: 2vw;
     color: white;
     font-weight: 700;
-    padding: 35px 0 0 0;
+    padding: 13px 0 0 0;
 }
 
 .funcao-d{
@@ -295,13 +295,14 @@
 }
 
 .caixa-livre-2{
-    text-align: end;
-    padding:25px 91px 0 0;
+    text-align: center;
+    padding:25px 0 0 0;
 }
 
 .titulo-sprint2{
     text-align: center;
     font-size: 3.5vw;
+    color:white;
 }
 
 .caixa-jogo2{
@@ -318,9 +319,10 @@
 
  .dentro-link{
     text-align: center;
-    font-size: 2vw;
+    font-size: 2.3vw;
     color:white;
     font-weight: 500;
+    padding:35px 0 0 0;
  }
 
  .jogo2{
@@ -350,4 +352,30 @@
     color:#89bcff;
     transition: all 0.4s linear;
     background-color: #2900ff;
+ }
+
+ .line-separation{
+    color:white;
+ }
+
+ .titulo-graficos{
+    text-align: center;
+    padding: 60px 0 22px 0;
+    color:white;
+    font-size:2.5vw;
+ }
+
+ .acima-grafico1{
+    display:flex;
+    gap:46px;
+    justify-content: center;
+    padding: 15px 0 0 0;
+ }
+
+ .grafico1{
+    width:29em;
+ }
+
+ .grafico2{
+    width:27em;
  }
